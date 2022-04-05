@@ -41,4 +41,20 @@ CustomColor.args = {
     customColor:'yellow',
 }
 
+export const CustomBGColor = Template.bind({});
+CustomBGColor.args = {
+    size:'h2',
+    customColor:'white',
+    backgroundColor:'black'
+}
+
+export const CustomBGColor2 = Template.bind({});
+CustomBGColor.args = {
+    size:'h2',
+    customColor:'white',
+    backgroundColor:'black'
+}
+
+
+
 
